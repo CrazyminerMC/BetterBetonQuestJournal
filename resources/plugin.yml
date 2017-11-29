@@ -1,0 +1,4 @@
+name: BetterBetonQuestJournal
+main: it.crazyminer.trickerytown.bbq.BetterBQ
+version: 0.1
+loadbefore: [BetonQuest]
